@@ -1,16 +1,24 @@
-## Hi there 👋
+## Kaiky Augusto Ribeiro Pereira
 
-<!--
-**Kaiky-Augusto/Kaiky-Augusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Gestão da Tecnologia da Informação na FATEC, com interesse em desenvolvimento front-end e back-end.  
+Busco oportunidade de estágio para aplicar conhecimentos técnicos, evoluir profissionalmente e contribuir com a equipe.
 
-Here are some ideas to get you started:
+### Tecnologias
+- HTML5
+- CSS3
+- JavaScript (básico)
+- Python (básico)
+- Java (básico)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### O que você encontra neste GitHub
+- Projetos simples em Front-End
+- Exercícios de lógica de programação
+- Atividades acadêmicas da área de TI
+
+### Formação
+- Gestão da Tecnologia da Informação – FATEC (cursando)
+- Ensino Médio completo
+
+### Contato
+- Email: kaiky.skr@hotmail.com
+
